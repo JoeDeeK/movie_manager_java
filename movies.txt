@@ -1,0 +1,4 @@
+1|Inception|Science Fiction|2010|Christopher Nolan|1
+2|Titanic|Drama|1997|James Cameron|0
+4|Cast Away|Adventure|2000|Robert Zemeckis|0
+5|A.I. Artificial Intelligence|Science Fiction|2001|Steven Spielberg|1
